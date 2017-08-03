@@ -9,3 +9,6 @@ git push
 git pull
 (escape):wq //bcz git uses vi text editior by default and its a vi command
 Basically if don't commit with message it prompts multiline message so you can make multiline comments and to escape from it just press escape and :wq
+
+
+so brooo added by me just check this ...........
